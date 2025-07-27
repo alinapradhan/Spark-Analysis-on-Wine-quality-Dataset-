@@ -11,7 +11,6 @@ This notebook walks through the following stages:
 * Final model selection based on accuracy, precision, and recall
 
 ##  Dataset
-
 The dataset used is the **Red Wine Quality dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality).
 
 Each sample contains 11 numerical features and a quality score (integer from 0 to 10) rated by wine tasters.
